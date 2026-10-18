@@ -59,8 +59,11 @@ The user interface is in German.
   export and import.
 - **HUD editor** – drag, snap and resize every display.
 - **HUD displays** – FPS, CPS, ping, coordinates with direction, keystrokes, armor, potion effects, memory, clock,
-  server address, combo counter and reach display.
-- **More** – zoom, fullbright, a custom crosshair (including a Star of David), toggle sprint and the Star Client main menu.
+  server address, combo counter, reach display, compass strip, speed, day counter, saturation, arrow counter,
+  stopwatch and the active resource pack.
+- **More** – zoom, fullbright, a custom crosshair (including a Star of David), toggle sprint and sneak, a fixed time
+  of day and clear weather (only on your screen), chat timestamps, a scoreboard you can resize or hide, and the
+  Star Client main menu.
 - **Capes** – Israel flag, Star of David, nebula, Hanukkah and Jerusalem gold. Capes are only visible to you;
   other players do not see them.
 
@@ -102,8 +105,8 @@ Minecraft is a trademark of Mojang AB. Star Client is not affiliated with Mojang
 Star Client ist ein Launcher und eine Fabric-Mod für Minecraft: Java Edition 26.3 unter Windows, in Blau und Weiß.
 Der Launcher lädt Java, das Spiel, Fabric und die Mods selbst, zeigt Server mit Live-Spielerzahlen, sucht Mods auf
 Modrinth und hat eine Garderobe mit 3D-Vorschau. Die Mod bringt ein Mod-Menü (Rechts-Shift), einen HUD-Editor,
-zwölf HUD-Anzeigen, Zoom, Fullbright, ein eigenes Fadenkreuz und fünf Star-Umhänge, die nur du selbst siehst.
-Keine Cheats.
+29 Module – darunter 19 HUD-Anzeigen, Zoom, Fullbright, ein eigenes Fadenkreuz, feste Tageszeit, klares Wetter und
+Chat-Zeitstempel – sowie fünf Star-Umhänge, die nur du selbst siehst. Keine Cheats.
 
 Die Anmeldung läuft ausschließlich über Microsoft; Star Client sieht dein Passwort nie. Solange Mojang die Anmeldung
 für Star Client noch nicht freigegeben hat, startet das Spiel über den offiziellen Minecraft Launcher.
