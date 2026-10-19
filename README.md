@@ -76,11 +76,17 @@ The user interface is in German.
   a Star of David of sparks, fireworks, hearts or souls. Only you see them.
 - **Discord status** – shows "Playing Star Client" with main menu, singleplayer or server (public server names only,
   never IP addresses). Needs a Discord application ID entered in the launcher.
+- **New in 2.1** – more kill effects (birch log, cactus, a menorah whose candles light one by one, confetti), blood
+  and hit effects with the real damage number, freelook (off by default – some servers forbid it), waypoints that
+  float in the world, a durability warning, session stats, item names on dropped items, your own sounds (.ogg),
+  animated loading screens, a warm evening sky, an own menu melody, a screenshot preview after F2 and two
+  animated capes. The launcher gets profiles with their own mods and settings, automatic updates and a news page.
 
 | | |
 |---|---|
 | <img src="docs/images/ingame-intro.png" alt="Start intro"> | <img src="docs/images/ingame-bg-flag.png" alt="Main menu with waving flag"> |
 | <img src="docs/images/ingame-stardesign.png" alt="Options in Star design"> | <img src="docs/images/ingame-killeffect.png" alt="Wooden log kill effect"> |
+| <img src="docs/images/ingame-menorah.png" alt="Menorah kill effect"> | <img src="docs/images/ingame-waypoint.png" alt="Waypoint in the world"> |
 
 **Fair play:** Star Client contains no cheats. Displays such as reach and combo only show information and do not
 change how the game plays.
@@ -120,11 +126,12 @@ Minecraft is a trademark of Mojang AB. Star Client is not affiliated with Mojang
 Star Client ist ein Launcher und eine Fabric-Mod für Minecraft: Java Edition 26.3 unter Windows, in Blau und Weiß.
 Der Launcher lädt Java, das Spiel, Fabric und die Mods selbst, zeigt Server mit Live-Spielerzahlen, sucht Mods auf
 Modrinth und hat eine Garderobe mit 3D-Vorschau. Die Mod bringt ein Mod-Menü (Rechts-Shift), einen HUD-Editor,
-33 Module – darunter 19 HUD-Anzeigen, Zoom, Fullbright, ein eigenes Fadenkreuz, feste Tageszeit, klares Wetter und
-Chat-Zeitstempel – sowie fünf Star-Umhänge, die nur du selbst siehst. Neu: ein Start-Intro mit sich selbst
-zeichnendem Davidstern, animierte Hauptmenü-Hintergründe (Jerusalem bei Nacht, wehende Flagge, Nebel …), das
-Star-Design für Minecrafts eigene Knöpfe und Menüs, Kill-Effekte wie ein Holzklotz mit Schläger und ein
-Discord-Status „Spielt Star Client“. Keine Cheats.
+44 Module – darunter 20 HUD-Anzeigen, Zoom, Fullbright, ein eigenes Fadenkreuz, feste Tageszeit, klares Wetter und
+Chat-Zeitstempel – sowie sieben Star-Umhänge (zwei davon animiert), die nur du selbst siehst. Dazu ein animiertes
+Start-Intro und animierte Ladebildschirme, Hauptmenü-Hintergründe (Jerusalem bei Nacht, wehende Flagge, Nebel …),
+das Star-Design für Minecrafts eigene Knöpfe und Menüs, Kill-Effekte wie ein Holzklotz mit Schläger oder eine
+Menora, Blut- und Treffer-Effekte, Freelook, Wegpunkte, eigene Klänge und ein Discord-Status „Spielt Star Client“.
+Der Launcher hat Profile mit eigenen Mods und Einstellungen und aktualisiert sich selbst. Keine Cheats.
 
 Die Anmeldung läuft ausschließlich über Microsoft; Star Client sieht dein Passwort nie. Solange Mojang die Anmeldung
 für Star Client noch nicht freigegeben hat, startet das Spiel über den offiziellen Minecraft Launcher.
