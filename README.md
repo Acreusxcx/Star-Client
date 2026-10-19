@@ -42,7 +42,7 @@ The user interface is in German.
 - **Wardrobe** – a 3D preview of your skin; choose one of five Star capes.
 - **Screenshots, console and crash reports** – a gallery of your screenshots, the live game log and a short explanation
   when the game crashes.
-- **Settings** – memory, JVM arguments, window size and what the launcher does while you play.
+- **Settings** – memory, JVM arguments, window size, what the launcher does while you play and the Discord status.
 
 ## Mod
 
@@ -66,6 +66,21 @@ The user interface is in German.
   Star Client main menu.
 - **Capes** – Israel flag, Star of David, nebula, Hanukkah and Jerusalem gold. Capes are only visible to you;
   other players do not see them.
+- **Start intro** – instead of the Mojang loading screen, a Star of David draws itself, followed by the wordmark and
+  a loading bar with the real progress.
+- **Animated menu backgrounds** – Jerusalem at night (Old City skyline, moon, shooting stars), starry night, nebula,
+  a waving Israel flag, the Minecraft panorama or random.
+- **Star design** – Minecraft's own buttons, sliders, checkboxes, text fields, tabs and menus in the blue-and-white
+  Star style (a built-in resource pack you can switch off).
+- **Kill effects** – when you defeat an opponent: a wooden log with a face swings its bat three times, lightning,
+  a Star of David of sparks, fireworks, hearts or souls. Only you see them.
+- **Discord status** – shows "Playing Star Client" with main menu, singleplayer or server (public server names only,
+  never IP addresses). Needs a Discord application ID entered in the launcher.
+
+| | |
+|---|---|
+| <img src="docs/images/ingame-intro.png" alt="Start intro"> | <img src="docs/images/ingame-bg-flag.png" alt="Main menu with waving flag"> |
+| <img src="docs/images/ingame-stardesign.png" alt="Options in Star design"> | <img src="docs/images/ingame-killeffect.png" alt="Wooden log kill effect"> |
 
 **Fair play:** Star Client contains no cheats. Displays such as reach and combo only show information and do not
 change how the game plays.
@@ -105,8 +120,11 @@ Minecraft is a trademark of Mojang AB. Star Client is not affiliated with Mojang
 Star Client ist ein Launcher und eine Fabric-Mod für Minecraft: Java Edition 26.3 unter Windows, in Blau und Weiß.
 Der Launcher lädt Java, das Spiel, Fabric und die Mods selbst, zeigt Server mit Live-Spielerzahlen, sucht Mods auf
 Modrinth und hat eine Garderobe mit 3D-Vorschau. Die Mod bringt ein Mod-Menü (Rechts-Shift), einen HUD-Editor,
-29 Module – darunter 19 HUD-Anzeigen, Zoom, Fullbright, ein eigenes Fadenkreuz, feste Tageszeit, klares Wetter und
-Chat-Zeitstempel – sowie fünf Star-Umhänge, die nur du selbst siehst. Keine Cheats.
+33 Module – darunter 19 HUD-Anzeigen, Zoom, Fullbright, ein eigenes Fadenkreuz, feste Tageszeit, klares Wetter und
+Chat-Zeitstempel – sowie fünf Star-Umhänge, die nur du selbst siehst. Neu: ein Start-Intro mit sich selbst
+zeichnendem Davidstern, animierte Hauptmenü-Hintergründe (Jerusalem bei Nacht, wehende Flagge, Nebel …), das
+Star-Design für Minecrafts eigene Knöpfe und Menüs, Kill-Effekte wie ein Holzklotz mit Schläger und ein
+Discord-Status „Spielt Star Client“. Keine Cheats.
 
 Die Anmeldung läuft ausschließlich über Microsoft; Star Client sieht dein Passwort nie. Solange Mojang die Anmeldung
 für Star Client noch nicht freigegeben hat, startet das Spiel über den offiziellen Minecraft Launcher.
